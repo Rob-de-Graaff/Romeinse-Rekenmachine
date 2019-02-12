@@ -1,0 +1,15 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\Romeinse Rekenmachine.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\Romeinse Rekenmachine.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\bin\Debug\Romeinse Rekenmachine.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse_Rekenmachine.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 5 Romeinse Rekenmachine\Romeinse Rekenmachine\Romeinse Rekenmachine\obj\Debug\Romeinse Rekenmachine.pdb
